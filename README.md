@@ -1,2 +1,2 @@
-# enterprise-apps
-Collection of Enterprise / Corporate apps
+# Enterprise Apps
+A collection of basic Enterprise / Corporate apps.
