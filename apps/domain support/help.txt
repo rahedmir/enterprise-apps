@@ -1,0 +1,8 @@
+Help
+----------------------------------------------------------------------------
+
+Error! Run as Admin or Xi
+
+Solution : Select the application - right click on it - Run as Administrator.
+
+Set Admin :: Set Admin operation sets the password as "password@123"

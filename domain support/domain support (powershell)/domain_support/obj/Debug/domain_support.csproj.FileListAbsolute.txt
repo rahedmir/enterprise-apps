@@ -1,0 +1,94 @@
+C:\Users\MIR\Desktop\C# Dev Bootcamp 2023\domain_support\domain_support\obj\Debug\domain_support.frm_domain_support.resources
+C:\Users\MIR\Desktop\C# Dev Bootcamp 2023\domain_support\domain_support\obj\Debug\domain_support.Properties.Resources.resources
+C:\Users\MIR\Desktop\C# Dev Bootcamp 2023\domain_support\domain_support\obj\Debug\domain_support.csproj.GenerateResource.Cache
+C:\Users\MIR\Desktop\C# Dev Bootcamp 2023\domain_support\domain_support\obj\Debug\domain_support.exe
+C:\Users\MIR\Desktop\C# Dev Bootcamp 2023\domain_support\domain_support\obj\Debug\domain_support.pdb
+C:\Users\MIR\Desktop\C# Dev Bootcamp 2023\domain_support\domain_support\bin\Debug\domain_support.exe.config
+C:\Users\MIR\Desktop\C# Dev Bootcamp 2023\domain_support\domain_support\bin\Debug\domain_support.exe
+C:\Users\MIR\Desktop\C# Dev Bootcamp 2023\domain_support\domain_support\bin\Debug\domain_support.pdb
+C:\Users\MIR\Desktop\C# Dev Bootcamp 2023\domain_support\domain_support\obj\Debug\domain_support.frm_domain_support_sysInfo.resources
+C:\Users\MIR\Desktop\C# Dev Bootcamp 2023\domain_support\domain_support\obj\Debug\domain_support.frm_domain_support_loading.resources
+C:\Users\MIR\Desktop\C# Dev Bootcamp 2023\domain_support\domain_support\obj\Debug\domain_support.frm_domain_support_about.resources
+D:\C# Dev Bootcamp 2023\domain_support\domain_support\bin\Debug\domain_support.exe.config
+D:\C# Dev Bootcamp 2023\domain_support\domain_support\bin\Debug\domain_support.exe
+D:\C# Dev Bootcamp 2023\domain_support\domain_support\bin\Debug\domain_support.pdb
+D:\C# Dev Bootcamp 2023\domain_support\domain_support\obj\Debug\domain_support.frm_domain_support.resources
+D:\C# Dev Bootcamp 2023\domain_support\domain_support\obj\Debug\domain_support.frm_domain_support_about.resources
+D:\C# Dev Bootcamp 2023\domain_support\domain_support\obj\Debug\domain_support.frm_domain_support_asset_custom.resources
+D:\C# Dev Bootcamp 2023\domain_support\domain_support\obj\Debug\domain_support.frm_domain_support_asset_desktop.resources
+D:\C# Dev Bootcamp 2023\domain_support\domain_support\obj\Debug\domain_support.frm_domain_support_asset_laptop.resources
+D:\C# Dev Bootcamp 2023\domain_support\domain_support\obj\Debug\domain_support.frm_domain_support_domain_addition.resources
+D:\C# Dev Bootcamp 2023\domain_support\domain_support\obj\Debug\domain_support.frm_domain_support_join_info.resources
+D:\C# Dev Bootcamp 2023\domain_support\domain_support\obj\Debug\domain_support.frm_domain_support_loading.resources
+D:\C# Dev Bootcamp 2023\domain_support\domain_support\obj\Debug\domain_support.frm_domain_support_serial_num.resources
+D:\C# Dev Bootcamp 2023\domain_support\domain_support\obj\Debug\domain_support.frm_domain_support_sysInfo.resources
+D:\C# Dev Bootcamp 2023\domain_support\domain_support\obj\Debug\domain_support.Properties.Resources.resources
+D:\C# Dev Bootcamp 2023\domain_support\domain_support\obj\Debug\domain_support.csproj.GenerateResource.Cache
+D:\C# Dev Bootcamp 2023\domain_support\domain_support\obj\Debug\domain_support.exe
+D:\C# Dev Bootcamp 2023\domain_support\domain_support\obj\Debug\domain_support.pdb
+D:\C# Dev Bootcamp 2023\domain_support\domain_support\obj\Debug\domain_support.frm_domain_support_domain_removal.resources
+D:\C# Dev Bootcamp 2023\domain_support\domain_support\obj\Debug\domain_support.frm_domain_support_removal_info.resources
+D:\C# Bootcamp\domain_support\domain_support\bin\Debug\domain_support.exe.config
+D:\C# Bootcamp\domain_support\domain_support\obj\Debug\domain_support.exe
+D:\C# Bootcamp\domain_support\domain_support\obj\Debug\domain_support.pdb
+D:\C# Bootcamp\domain_support\domain_support\bin\Debug\domain_support.exe
+D:\C# Bootcamp\domain_support\domain_support\bin\Debug\domain_support.pdb
+D:\C# Bootcamp\domain_support\domain_support\obj\Debug\domain_support.frm_domain_support.resources
+D:\C# Bootcamp\domain_support\domain_support\obj\Debug\domain_support.frm_domain_support_about.resources
+D:\C# Bootcamp\domain_support\domain_support\obj\Debug\domain_support.frm_domain_support_asset_custom.resources
+D:\C# Bootcamp\domain_support\domain_support\obj\Debug\domain_support.frm_domain_support_asset_desktop.resources
+D:\C# Bootcamp\domain_support\domain_support\obj\Debug\domain_support.frm_domain_support_asset_laptop.resources
+D:\C# Bootcamp\domain_support\domain_support\obj\Debug\domain_support.frm_domain_support_domain_addition.resources
+D:\C# Bootcamp\domain_support\domain_support\obj\Debug\domain_support.frm_domain_support_domain_removal.resources
+D:\C# Bootcamp\domain_support\domain_support\obj\Debug\domain_support.frm_domain_support_join_info.resources
+D:\C# Bootcamp\domain_support\domain_support\obj\Debug\domain_support.frm_domain_support_loading.resources
+D:\C# Bootcamp\domain_support\domain_support\obj\Debug\domain_support.frm_domain_support_removal_info.resources
+D:\C# Bootcamp\domain_support\domain_support\obj\Debug\domain_support.frm_domain_support_serial_num.resources
+D:\C# Bootcamp\domain_support\domain_support\obj\Debug\domain_support.frm_domain_support_sysInfo.resources
+D:\C# Bootcamp\domain_support\domain_support\obj\Debug\domain_support.Properties.Resources.resources
+D:\C# Bootcamp\domain_support\domain_support\obj\Debug\domain_support.csproj.GenerateResource.Cache
+D:\C# Bootcamp\domain_support\domain_support\obj\Debug\domain_support.frm_domain_support_security_services.resources
+D:\C# Bootcamp\domain_support\domain_support\obj\Debug\domain_support.frm_domain_support_details.resources
+D:\C# Bootcamp\domain_support\domain_support\obj\Debug\domain_support.csprojResolveAssemblyReference.cache
+D:\C# Bootcamp\Domain Support (Powershell)\domain_support\bin\Debug\domain_support.exe.config
+D:\C# Bootcamp\Domain Support (Powershell)\domain_support\obj\Debug\domain_support.exe
+D:\C# Bootcamp\Domain Support (Powershell)\domain_support\obj\Debug\domain_support.pdb
+D:\C# Bootcamp\Domain Support (Powershell)\domain_support\bin\Debug\domain_support.exe
+D:\C# Bootcamp\Domain Support (Powershell)\domain_support\bin\Debug\domain_support.pdb
+D:\C# Bootcamp\Domain Support (Powershell)\domain_support\obj\Debug\domain_support.frm_domain_support.resources
+D:\C# Bootcamp\Domain Support (Powershell)\domain_support\obj\Debug\domain_support.frm_domain_support_about.resources
+D:\C# Bootcamp\Domain Support (Powershell)\domain_support\obj\Debug\domain_support.frm_domain_support_asset_custom.resources
+D:\C# Bootcamp\Domain Support (Powershell)\domain_support\obj\Debug\domain_support.frm_domain_support_asset_desktop.resources
+D:\C# Bootcamp\Domain Support (Powershell)\domain_support\obj\Debug\domain_support.frm_domain_support_asset_laptop.resources
+D:\C# Bootcamp\Domain Support (Powershell)\domain_support\obj\Debug\domain_support.frm_domain_support_details.resources
+D:\C# Bootcamp\Domain Support (Powershell)\domain_support\obj\Debug\domain_support.frm_domain_support_domain_addition.resources
+D:\C# Bootcamp\Domain Support (Powershell)\domain_support\obj\Debug\domain_support.frm_domain_support_domain_removal.resources
+D:\C# Bootcamp\Domain Support (Powershell)\domain_support\obj\Debug\domain_support.frm_domain_support_join_info.resources
+D:\C# Bootcamp\Domain Support (Powershell)\domain_support\obj\Debug\domain_support.frm_domain_support_loading.resources
+D:\C# Bootcamp\Domain Support (Powershell)\domain_support\obj\Debug\domain_support.frm_domain_support_removal_info.resources
+D:\C# Bootcamp\Domain Support (Powershell)\domain_support\obj\Debug\domain_support.frm_domain_support_security_services.resources
+D:\C# Bootcamp\Domain Support (Powershell)\domain_support\obj\Debug\domain_support.frm_domain_support_serial_num.resources
+D:\C# Bootcamp\Domain Support (Powershell)\domain_support\obj\Debug\domain_support.frm_domain_support_sysInfo.resources
+D:\C# Bootcamp\Domain Support (Powershell)\domain_support\obj\Debug\domain_support.Properties.Resources.resources
+D:\C# Bootcamp\Domain Support (Powershell)\domain_support\obj\Debug\domain_support.csproj.GenerateResource.Cache
+C:\Users\MIR\Desktop\Domain Support (Powershell)\domain_support\bin\Debug\domain_support.exe.config
+C:\Users\MIR\Desktop\Domain Support (Powershell)\domain_support\obj\Debug\domain_support.exe
+C:\Users\MIR\Desktop\Domain Support (Powershell)\domain_support\obj\Debug\domain_support.pdb
+C:\Users\MIR\Desktop\Domain Support (Powershell)\domain_support\bin\Debug\domain_support.exe
+C:\Users\MIR\Desktop\Domain Support (Powershell)\domain_support\bin\Debug\domain_support.pdb
+C:\Users\MIR\Desktop\Domain Support (Powershell)\domain_support\obj\Debug\domain_support.frm_domain_support.resources
+C:\Users\MIR\Desktop\Domain Support (Powershell)\domain_support\obj\Debug\domain_support.frm_domain_support_about.resources
+C:\Users\MIR\Desktop\Domain Support (Powershell)\domain_support\obj\Debug\domain_support.frm_domain_support_asset_custom.resources
+C:\Users\MIR\Desktop\Domain Support (Powershell)\domain_support\obj\Debug\domain_support.frm_domain_support_asset_desktop.resources
+C:\Users\MIR\Desktop\Domain Support (Powershell)\domain_support\obj\Debug\domain_support.frm_domain_support_asset_laptop.resources
+C:\Users\MIR\Desktop\Domain Support (Powershell)\domain_support\obj\Debug\domain_support.frm_domain_support_details.resources
+C:\Users\MIR\Desktop\Domain Support (Powershell)\domain_support\obj\Debug\domain_support.frm_domain_support_domain_addition.resources
+C:\Users\MIR\Desktop\Domain Support (Powershell)\domain_support\obj\Debug\domain_support.frm_domain_support_domain_removal.resources
+C:\Users\MIR\Desktop\Domain Support (Powershell)\domain_support\obj\Debug\domain_support.frm_domain_support_join_info.resources
+C:\Users\MIR\Desktop\Domain Support (Powershell)\domain_support\obj\Debug\domain_support.frm_domain_support_loading.resources
+C:\Users\MIR\Desktop\Domain Support (Powershell)\domain_support\obj\Debug\domain_support.frm_domain_support_removal_info.resources
+C:\Users\MIR\Desktop\Domain Support (Powershell)\domain_support\obj\Debug\domain_support.frm_domain_support_security_services.resources
+C:\Users\MIR\Desktop\Domain Support (Powershell)\domain_support\obj\Debug\domain_support.frm_domain_support_serial_num.resources
+C:\Users\MIR\Desktop\Domain Support (Powershell)\domain_support\obj\Debug\domain_support.frm_domain_support_sysInfo.resources
+C:\Users\MIR\Desktop\Domain Support (Powershell)\domain_support\obj\Debug\domain_support.Properties.Resources.resources
+C:\Users\MIR\Desktop\Domain Support (Powershell)\domain_support\obj\Debug\domain_support.csproj.GenerateResource.Cache
